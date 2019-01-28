@@ -1,4 +1,4 @@
-# Maze-Solver
+# Maze: Generate and Solve
 Final project for AP Computer Science A (2018)
 
 
